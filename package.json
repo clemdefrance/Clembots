@@ -1,0 +1,19 @@
+{
+  "name": "discord",
+  "version": "1.0.0",
+  "description": "the best bot of clemdefrance's chanel ( ouais, j'ai des base en anglais XD)",
+  "main": "index.js",
+  "scripts": {
+    "test": "!don"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clemdefrance/Clembots.git"
+  },
+  "author": "Clemdefrance",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/clemdefrance/Clembots/issues"
+  },
+  "homepage": "https://github.com/clemdefrance/Clembots#readme"
+}
